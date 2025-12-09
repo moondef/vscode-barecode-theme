@@ -1,0 +1,26 @@
+{
+  "name": "barecode",
+  "displayName": "Barecode",
+  "description": "A minimal two-tone theme designed to remove visual noise and keep the focus on your code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Barecode Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Barecode-dark.json"
+      },
+      {
+        "label": "Barecode Light",
+        "uiTheme": "vs",
+        "path": "./themes/Barecode-light.json"
+      }
+    ]
+  }
+}
