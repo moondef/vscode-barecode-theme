@@ -1,13 +1,44 @@
 {
   "name": "barecode",
   "displayName": "Barecode",
-  "description": "A minimal two-tone theme designed to remove visual noise and keep the focus on your code",
-  "version": "0.0.1",
+  "description": "A minimal, monochrome VS Code theme. No syntax rainbow. Just focus.",
+  "version": "1.0.0",
+  "publisher": "moondef",
+  "author": {
+    "name": "Stepan Samko",
+    "email": "hi@samko.io"
+  },
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#0e0e0e",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moondef/vscode-barecode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/moondef/vscode-barecode-theme/issues"
+  },
+  "homepage": "https://github.com/moondef/vscode-barecode-theme#readme",
   "engines": {
-    "vscode": "^1.106.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "minimal",
+    "monochrome",
+    "dark",
+    "light",
+    "grayscale",
+    "focus",
+    "distraction-free",
+    "low-contrast",
+    "accessibility"
   ],
   "contributes": {
     "themes": [
