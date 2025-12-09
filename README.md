@@ -69,7 +69,7 @@ The result is a calm, focused editing experience where your attention naturally 
 ### Manual Installation
 
 ```bash
-git clone https://github.com/moondef/vscode-barecode-theme.git ~/.vscode/extensions/barecode
+git clone https://github.com/moondef/vscode-barecode-theme.git ~/.vscode/extensions/barecode-1.0.1
 ```
 
 Restart VS Code and select the theme.
@@ -81,6 +81,7 @@ For the best experience, consider these VS Code settings:
 ```json
 {
   "editor.fontFamily": "JetBrains Mono, Fira Code, monospace",
+  "editor.fontLigatures": true,
   "editor.fontSize": 14,
   "editor.lineHeight": 1.6,
   "editor.renderWhitespace": "selection",
