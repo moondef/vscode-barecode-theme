@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.svg" alt="Barecode Logo" width="128" height="128">
+  <img src="images/icon.png" alt="Barecode Logo" width="128" height="128">
 </p>
 
 <h1 align="center">Barecode</h1>
