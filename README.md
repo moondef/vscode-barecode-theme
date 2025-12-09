@@ -13,11 +13,11 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=moondef.barecode">
     <img src="https://img.shields.io/visual-studio-marketplace/v/moondef.barecode?style=flat-square&label=VS%20Marketplace" alt="VS Marketplace Version">
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=moondef.barecode">
+  <!-- <a href="https://marketplace.visualstudio.com/items?itemName=moondef.barecode">
     <img src="https://img.shields.io/visual-studio-marketplace/i/moondef.barecode?style=flat-square" alt="Installs">
-  </a>
+  </a> -->
   <a href="https://github.com/moondef/vscode-barecode-theme/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/moondef/vscode-barecode-theme?style=flat-square" alt="License">
+    <img src="https://img.shields.io/github/license/moondef/vscode-barecode-theme?style=flat-square&v=1" alt="License">
   </a>
 </p>
 
