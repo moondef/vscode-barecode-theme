@@ -2,7 +2,7 @@
   "name": "barecode",
   "displayName": "Barecode",
   "description": "A minimal, monochrome VS Code theme. No syntax rainbow. Just focus.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "moondef",
   "author": {
     "name": "Stepan Samko",
